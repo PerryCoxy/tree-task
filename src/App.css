@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.root {
+  display: flex;
+}
+
+.tree {
+  width: 50%;
+}
+
+.wrapper {
+  margin-left: 20px;
+}
+
+.button__wrapper {
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+}
