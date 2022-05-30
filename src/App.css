@@ -50,7 +50,19 @@
 }
 
 .button__wrapper {
-  width: 150px;
+  margin-top: 20px;
+  width: 300px;
   display: flex;
   justify-content: space-between;
+}
+
+button {
+  height: 30px;
+  background-color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
 }
